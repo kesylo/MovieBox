@@ -1,4 +1,4 @@
-"# Movie Box" 
+# Movie Box
 - Android  
 - RecycleView  
 - OkHttp  
